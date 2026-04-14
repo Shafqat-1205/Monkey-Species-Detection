@@ -6,7 +6,7 @@ A simple and basic deep learning project to classify different species of monkey
 * **Custom CNN Models:** Implementation of a basic CNN from scratch to understand fundamental feature extraction.
 * **Transfer Learning:** Integration of state-of-the-art models including `ResNet18`, `VGG16`, and others for improved accuracy.
 * **Data Augmentation:** Techniques applied to prevent overfitting and improve model generalization.
-* **Evaluation Metrics:** Includes accuracy tracking, loss curves, and [add any others, e.g., confusion matrix].
+* **Evaluation Metrics:** Includes accuracy tracking, loss function.
 
 
 ## 📊 Dataset
